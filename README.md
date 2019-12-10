@@ -21,9 +21,15 @@ end
 ## 参考サイト
 
 [いい感じの入門サイト](http://cas.eedept.kobe-u.ac.jp/~arai/Verilog/index.html)
+
 http://cas.eedept.kobe-u.ac.jp/~arai/Verilog/chap4.html
+
 https://sites.google.com/site/methingh/fpga-asic-bei-wang-lu/-gktwave-no-shi-yong-fang-fa
+
 http://www.usamilab.ise.shibaura-it.ac.jp/adv1a-fpga-tutorial/docs/intro-02/
+
 http://altmo.html.xdomain.jp/src_00/2015_0100/00.html
+
 https://tech.sairilab.com/2018/09/macdeverilogno-kai-fa-huan-jing-gou-zhu/
+
 [Icarus のインストール](http://bleyer.org/icarus/)

@@ -7,10 +7,10 @@ wire [3:0] q;
 
 parameter STEP = 100000;
 
-adder adder(a,b,q);
+adder adder(a,b,q); // モジュール名 インスタンス名(自由)
 
 initial begin
-a = 4'h0; b = 4'h0;
+a = 4'h0; b = 4'h0; // ビット幅'基数_定数値
 #STEP a = 4'h5; b = 4'h2;
 #STEP a = 4'h7; b = 4'h1;
 #STEP a = 4'h1; b = 4'h8;

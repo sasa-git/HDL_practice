@@ -1,4 +1,16 @@
-# HDL の使い方
+# Verilog とは
+
+Verilog（ヴェリログ）は、IEEE 1364 として標準化されているハードウェア記述言語（Hardware Description Language; HDL）である。 ~~by Wikipedia~~
+
+# インストール
+
+Verilog を動かすには Icarus を、波形を表示するには GTKwave が必要になる
+
+[Windows](http://altmo.html.xdomain.jp/src_00/2015_0100/00.html)
+[Mac](https://tech.sairilab.com/2018/09/macdeverilogno-kai-fa-huan-jing-gou-zhu/)
+[Linux]() ~~調べてないやググってね~~
+
+# Verilog の使い方
 
 1. 必要なモジュール・シミュレート用モジュールを書く
 1. `$ iverilog -o adder.out adder.v adder_tp.v`でコンパイル(この時、 -s オプションで，トップモジュール名を指定します。 -s オプションは省略可能であるが，作者は -s オプションにてトップモジュール名を明記することを奨励しています。)
@@ -32,4 +44,4 @@ http://altmo.html.xdomain.jp/src_00/2015_0100/00.html
 
 https://tech.sairilab.com/2018/09/macdeverilogno-kai-fa-huan-jing-gou-zhu/
 
-[Icarus のインストール](http://bleyer.org/icarus/)
+[Icarus のダウンロードサイト](http://bleyer.org/icarus/)

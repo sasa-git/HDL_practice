@@ -10,7 +10,7 @@ Verilog を動かすには Icarus を、波形を表示するには GTKwave が�
 
 [Mac](https://tech.sairilab.com/2018/09/macdeverilogno-kai-fa-huan-jing-gou-zhu/)
 
-[Linux]() ~~調べてないやググってね~~
+[Linux](#) ~~調べてないやググってね~~
 
 # Verilog の使い方
 
